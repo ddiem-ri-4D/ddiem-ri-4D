@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ddiem-ri-4D/ddiem-ri-4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ddiem-ri-4D's github stats](https://github-readme-stats.vercel.app/api?username=ddiem-ri-4D&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddiem-ri-4D&show_icons=true&layout=compact&theme=vue)](https://github-readme-stats.vercel.app/api/top-langs/?username=ddiem-ri-4D&show_icons=true&layout=compact&theme=vue)
+
