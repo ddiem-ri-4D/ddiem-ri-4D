@@ -47,10 +47,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,docker,linux,bash,git,vscode"/>
 </p>
-
----
-
-<!-- SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ddiem-ri-4D/ddiem-ri-4D/output/github-contribution-grid-snake-dark.svg"/>
-</p>
