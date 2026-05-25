@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 Nice to meet you!
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ddiem-ri-4D&show_icons=true&line_height=20&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=ddiem-ri-4D&show_icons=true&line_height=20&show_icons=true&theme=dark)
+[![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ddiem-ri-4D&show_icons=true&theme=dark)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddiem-ri-4D&show_icons=true&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=ddiem-ri-4D&show_icons=true&layout=compact&theme=dark)
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ddiem-ri-4D&layout=compact&theme=dark)]()
