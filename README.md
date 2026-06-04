@@ -21,7 +21,7 @@
 ---
 
 <!-- STREAK -->
-<! <p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=ddiem-ri-4D&theme=tokyonight&hide_border=true"/>
 </p>
 
